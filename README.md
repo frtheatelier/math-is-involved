@@ -8,4 +8,4 @@ They are written in Python and mostly for practice on my end.
 - [Stacks](stacks): answer as many questions as you'd like (kind of like Equations, only that you don't have to do them in a row). Do take note of your answers though, they're important! (Hint: game title suggests what you might have to do)
 
 ### Utilities
-- [Conversion tools](conversion-tools): Converts things to things. Includes: Decimal-Binary converter, Unit converter (TODO), Decimal-Roman numerals (TODO)
+- [Conversion tools](conversion-tools): Converts things to things. Includes: Decimal-Binary converter, Length unit converter, Decimal-Roman numerals (TODO)
